@@ -72,7 +72,7 @@ Otra posible, un poco menos engorrosa podría ser
 
 Acá tenes un ejemplo de como y donde se aplican esta misma estructura en el desafió, te dejo este vídeo.
 
-[![](README.assets/Captura de pantalla de 2020-09-21 17-48-23.png)](https://web.microsoftstream.com/video/0567f4a9-adad-4b25-baa5-06460bd750c1)
+[![](README.assets/img2.png)](https://web.microsoftstream.com/video/0567f4a9-adad-4b25-baa5-06460bd750c1)
 
 > Preguntas de repaso: ¿Cual es el propósito de la etiqueta `nav`?
 
@@ -98,7 +98,7 @@ Si las imágenes ya aparecieron, solo resta centrarlas. Para esto, existen mucho
 
 Te dejamos un vídeo donde se ve, entre otros temas, como se aplica flexbox en nuestro ejemplo.
 
-[![](README.assets/Captura de pantalla de 2020-09-21 17-48-23.png)](https://web.microsoftstream.com/video/392679b1-1cdd-40c7-9aa8-fc4eb8ffeec7)
+[![](README.assets/img2.png)](https://web.microsoftstream.com/video/392679b1-1cdd-40c7-9aa8-fc4eb8ffeec7)
 
 ### Espaciado entre los elementos.
 
@@ -119,7 +119,7 @@ En este caso, te dejamos dos vídeos que hablan sobre este tema.
 
 | Parte 1                                                      | Parte 2                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](README.assets/Captura de pantalla de 2020-09-21 18-26-34.png)](https://web.microsoftstream.com/video/b3a9cd47-94ed-4fd9-bbac-d1f67eef4bef) | [![](README.assets/Captura de pantalla de 2020-09-21 18-26-34.png)](https://web.microsoftstream.com/video/ece75dc9-15dc-49a7-8aa2-637c4969a139) |
+| [![](README.assets/img3.png)](https://web.microsoftstream.com/video/b3a9cd47-94ed-4fd9-bbac-d1f67eef4bef) | [![](README.assets/img3.png)](https://web.microsoftstream.com/video/ece75dc9-15dc-49a7-8aa2-637c4969a139) |
 
 ## Pie de pagina.
 
@@ -150,7 +150,7 @@ Puede ocurrir que el párrafo no se vea, esto se debe a que por defecto, los nav
 - Modificar cambiar el color del párrafo a blanco.
 - Modificar la tipografía del párrafo a la que se utiliza en todo el proyecto.
 
-[![](README.assets/Captura de pantalla de 2020-09-21 17-48-23.png)](https://web.microsoftstream.com/video/b4a155c4-6dbb-4396-a206-a00c97067fc2)
+[![](README.assets/img2.png)](https://web.microsoftstream.com/video/b4a155c4-6dbb-4396-a206-a00c97067fc2)
 
 ### Aplicando Flexbox en  `footer`.
 
