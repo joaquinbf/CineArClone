@@ -154,6 +154,6 @@ Puede ocurrir que el párrafo no se vea, esto se debe a que por defecto, los nav
 
 ### Aplicando Flexbox en  `footer`.
 
-No queda mucho por decir así que simplemente te dejaremos una ayuda que te puede servir.
+No queda mucho por decir, así que simplemente te dejaremos una ayuda que te puede servir.
 
 > Ayuda: Antes ya usamos cajas flexibles para centrar los elementos, pero ahora, lo que queremos es que haya todo el espacio posible entre el párrafo y la barra de navegación.
